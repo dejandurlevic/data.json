@@ -1,0 +1,72 @@
+[
+  {
+    "text": "What is the capital of France?",
+    "options": ["Berlin", "London", "Paris", "Madrid"],
+    "correctAnswer": 2,
+    "points": 10,
+    "category": "Geography"
+  },
+  {
+    "text": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "correctAnswer": 1,
+    "points": 10,
+    "category": "Biology"
+  },
+  {
+    "text": "Who is the author of 'To Kill a Mockingbird'?",
+    "options": ["J.K. Rowling", "George Orwell", "Harper Lee", "F. Scott Fitzgerald"],
+    "correctAnswer": 2,
+    "points": 10,
+    "category": "Literature"
+  },
+  {
+    "text": "Which planet is known as the 'Red Planet'?",
+    "options": ["Mars", "Jupiter", "Venus", "Saturn"],
+    "correctAnswer": 0,
+    "points": 10,
+    "category": "Astronomy"
+  },
+  {
+    "text": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Fe", "Cu"],
+    "correctAnswer": 0,
+    "points": 10,
+    "category": "Science"
+  },
+  {
+    "text": "Who painted the Mona Lisa?",
+    "options": ["Pablo Picasso", "Leonardo da Vinci", "Vincent van Gogh", "Rembrandt"],
+    "correctAnswer": 1,
+    "points": 10,
+    "category": "Art"
+  },
+  {
+    "text": "Which country is known as the Land of the Rising Sun?",
+    "options": ["China", "Japan", "South Korea", "Thailand"],
+    "correctAnswer": 1,
+    "points": 10,
+    "category": "Geography"
+  },
+  {
+    "text": "What is the largest mammal on Earth?",
+    "options": ["Giraffe", "Elephant", "Blue Whale", "Hippopotamus"],
+    "correctAnswer": 2,
+    "points": 10,
+    "category": "Biology"
+  },
+  {
+    "text": "Who wrote 'Romeo and Juliet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "F. Scott Fitzgerald"],
+    "correctAnswer": 1,
+    "points": 10,
+    "category": "Literature"
+  },
+  {
+    "text": "Which gas is most abundant in Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "correctAnswer": 2,
+    "points": 10,
+    "category": "Science"
+  }
+]
